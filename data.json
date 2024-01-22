@@ -1,0 +1,73 @@
+
+[
+   {
+      "id":5,
+      "nama_mahasiswa":"Andre",
+      "alamat":"Purwokerto",
+      "avatar":"avatar4.png"
+   
+},
+   {
+      "id":51,
+      "nama_mahasiswa":"Ayu Dewi",
+      "alamat":"Jakarta",
+      "avatar":"avatar1.png"
+   
+},
+   {
+      "id":66,
+      "nama_mahasiswa":"Dedy Corbuzier",
+      "alamat":"Jakarta",
+      "avatar":"avatar3.png"
+   
+},
+   {
+      "id":44,
+      "nama_mahasiswa":"Dery",
+      "alamat":"Cilacap",
+      "avatar":"avatar4.png"
+   
+},
+   {
+      "id":1,
+      "nama_mahasiswa":"Dewan Komputer",
+      "alamat":"Cilacap",
+      "avatar":"avatar2.png"
+   
+},
+   {
+      "id":56,
+      "nama_mahasiswa":"Dian Satro",
+      "alamat":"Jakarta",
+      "avatar":"avatar1.png"
+   
+},
+   {
+      "id":52,
+      "nama_mahasiswa":"Gading Martin",
+      "alamat":"Yogyakarta",
+      "avatar":"avatar4.png"
+   
+},
+   {
+      "id":18,
+      "nama_mahasiswa":"Gundul",
+      "alamat":"Purwokerto",
+      "avatar":"avatar2.png"
+   
+},
+   {
+      "id":59,
+      "nama_mahasiswa":"Melinda",
+      "alamat":"Yogyakarta",
+      "avatar":"avatar1.png"
+   
+},
+   {
+      "id":45,
+      "nama_mahasiswa":"Rafii Ahmad",
+      "alamat":"Jakarta",
+      "avatar":"avatar2.png"
+   
+}
+]
