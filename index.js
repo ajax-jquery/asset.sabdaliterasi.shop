@@ -13,7 +13,7 @@ const transporter = nodemailer.createTransport({
 exports.sendEmailWithAttachments = functions.https.onRequest(async (req, res) => {
     cors(req, res, async () => {
         try {
-            const { senderName, recipientEmail, subject, message, attachment1, attachment2 } = req.body;
+            const { senderName, recipientEmail, subject, message, attachment,attachmentName } = req.body;
 
             const mailOptions = {
                 from: 'fadhelfikri@yahoo.com',
@@ -27,8 +27,8 @@ exports.sendEmailWithAttachments = functions.https.onRequest(async (req, res) =>
                         encoding: 'base64'
                     },
                     {
-                        filename: 'attachment2.png',
-                        content: attachment2,
+                        filename: attachmentName,
+                        content: attachment,
                         encoding: 'base64'
                     }
                 ]
